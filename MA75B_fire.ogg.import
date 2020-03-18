@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MA75B_fire.ogg-ed5b93612ff78df500077986f967070b.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/M1/MA75B_fire.ogg"
+dest_files=[ "res://.import/MA75B_fire.ogg-ed5b93612ff78df500077986f967070b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

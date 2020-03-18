@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Sound 153-0.ogg-24bf8ee486104eb315f2974a5951ef19.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/M1/Sound 153-0.ogg"
+dest_files=[ "res://.import/Sound 153-0.ogg-24bf8ee486104eb315f2974a5951ef19.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

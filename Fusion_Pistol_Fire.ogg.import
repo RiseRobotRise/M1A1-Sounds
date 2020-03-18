@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Fusion_Pistol_Fire.ogg-1f25b6cf99a7e7a78049d88a64ed7621.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/M1/Fusion_Pistol_Fire.ogg"
+dest_files=[ "res://.import/Fusion_Pistol_Fire.ogg-1f25b6cf99a7e7a78049d88a64ed7621.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

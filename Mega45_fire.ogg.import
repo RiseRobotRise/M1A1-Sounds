@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Mega45_fire.ogg-53ab42cbe336eadd736bb353b34c0946.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/M1/Mega45_fire.ogg"
+dest_files=[ "res://.import/Mega45_fire.ogg-53ab42cbe336eadd736bb353b34c0946.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

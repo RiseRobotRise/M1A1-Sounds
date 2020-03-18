@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MA75B_explosion.ogg-c464926f7ccc0284743eba8a5b3d8b5c.oggstr"
+
+[deps]
+
+source_file="res://assets/sounds/M1/MA75B_explosion.ogg"
+dest_files=[ "res://.import/MA75B_explosion.ogg-c464926f7ccc0284743eba8a5b3d8b5c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
